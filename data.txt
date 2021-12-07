@@ -1,0 +1,1 @@
+{"Users": [{"user": "Xandra", "WildMagic": 1}, {"user": "Test", "WildMagic": 2}, {"user": "Callum", "WildMagic": 2}]}
